@@ -928,7 +928,7 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
-				.fa-ghost {
+				.fas {
 					transform: scale(3);
 				}
 /* Table */
